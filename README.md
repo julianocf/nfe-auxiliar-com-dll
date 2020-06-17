@@ -2,9 +2,12 @@
 Projeto de DLL em C# para acesso a funções da API do windows via comunicação COM
 
 Utilizado como base o projeto "HarbourCSharpCertificates"
+
 https://github.com/andrelccorrea/csharp-certificates-para-harbour
 
+
 -Funções implantadas:
+
 	SelecionarCertificado() -> retorna booleano true se selecionou corretamente o certificado
 	SelecionarCertificadoPorDigital(string digitalDoCertificado) -> retorna booleano true se selecionou corretamente o certificado
 	RetornarNomeAmigavelDoCertificado() -> retorna o nome amigável do certificado em formato string
